@@ -1,6 +1,6 @@
 # pdf-generator
 
-This project helps you to create pdf files from html content dynamically. It also clears any html errors and does not corrupt for non-english alphabet characters.
+This project helps you to create pdf files from html content. It also clears any html errors and does not corrupt for non-english alphabet characters.
 
 This project uses jtidy and core-renderer as dependency libraries. core-renderer uses old itext dependency 2.0.8 
 
